@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 22ba32a804fb9a142a3aef7cf8c42a2c
+  m_SerializeEntries:
+  - m_GUID: 4959c826e6179944c895c8278b0fcdbe
+    m_Address: Assets/Prefabs/Field.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b75f68df1ab60674180d09f464ff86ef
+    m_Address: Assets/Prefabs/RacketPlayer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a2ceae74bb40d94480c028b6e0aee79
+    m_Address: Assets/Prefabs/Ball.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23b7f5daafccb334d9ba11b97a974f43
+    m_Address: Assets/Prefabs/RacketEnemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd7fd916c2f09ac42a8e76d5f077fff1
+    m_Address: Assets/Prefabs/Ball 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 360c338c8c536f2449784c75953cb8c8
+    m_Address: Assets/Prefabs/Ball 2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d9553a66f0320ca42ae83d4caa23eff9
+    m_Address: Assets/Prefabs/Ball 3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 167a003ce6657ec4da1e42c3994b142f
+    m_Address: Assets/Prefabs/Ball 4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23de3dfdc5a3dd74681fa720154516ae
+    m_Address: Assets/Prefabs/Ball 5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 192fa107a9051fa48a84a464073d3250, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6318e22f29c802d4f83d31ab9df9498d, type: 2}
+    - {fileID: 11400000, guid: 2424dbca500886145b2c1f95188c180e, type: 2}

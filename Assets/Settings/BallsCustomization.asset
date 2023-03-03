@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70cf1cd84e2a9414ab0dce1bba7887d1, type: 3}
+  m_Name: BallsCustomization
+  m_EditorClassIdentifier: 
+  customBalls:
+    defaultBall:
+      id: default
+      name: Grey
+      icon: {fileID: 21300000, guid: e5600378dd761e64d9423790c482bf36, type: 3}
+      prefab:
+        m_AssetGUID: 6a2ceae74bb40d94480c028b6e0aee79
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    balls:
+    - id: 1
+      name: Blue
+      icon: {fileID: 21300000, guid: d24e7e0b75e1a244bb9687d6fd4315ef, type: 3}
+      prefab:
+        m_AssetGUID: cd7fd916c2f09ac42a8e76d5f077fff1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - id: 2
+      name: Orange
+      icon: {fileID: 21300000, guid: fd098fb4cf57bad419701c802e442b7e, type: 3}
+      prefab:
+        m_AssetGUID: 360c338c8c536f2449784c75953cb8c8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - id: 3
+      name: Red
+      icon: {fileID: 21300000, guid: a6fbd5a181bc51e42a61a73fe8d727c8, type: 3}
+      prefab:
+        m_AssetGUID: d9553a66f0320ca42ae83d4caa23eff9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - id: 4
+      name: Purple
+      icon: {fileID: 21300000, guid: 2cfbf6619eb047545a425e8a31732c83, type: 3}
+      prefab:
+        m_AssetGUID: 167a003ce6657ec4da1e42c3994b142f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - id: 5
+      name: Green
+      icon: {fileID: 21300000, guid: 38236a82ff44aaa4b972248479d5f970, type: 3}
+      prefab:
+        m_AssetGUID: 23de3dfdc5a3dd74681fa720154516ae
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
